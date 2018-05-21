@@ -1,3 +1,4 @@
 # 伪装浏览器UserAgent
 
-pip install fake-useragent
+安装并升级
+> pip install -U fake-useragent
